@@ -1,12 +1,12 @@
 # ECE-2nd-sem-mid-term-assignments
 
-Student information:
+# Student information:
 
 Name: Syed Mir Hussain
 
-# Roll No.: ECE-22-13
+Roll No.: ECE-22-13
 
 
-Repository details:
+# Repository details:
 
-# Contains assignment 1, assignment 2, classwork.
+Contains all problems from assignment 1 and assignment 2, and three problems condensed in one file from classwork.
